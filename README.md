@@ -1,1 +1,1 @@
-1. [ДЗ №1]([https://github.com/LastDray/homework_Y_LAB/tree/main/homework_1](https://github.com/ylabio/react-webinar-3/pull/83)https://github.com/ylabio/react-webinar-3/pull/83) (Ссылка на pull request)
+1. [ДЗ №1](https://github.com/ylabio/react-webinar-3/pull/83) `Ссылка указана на Pull Request`
